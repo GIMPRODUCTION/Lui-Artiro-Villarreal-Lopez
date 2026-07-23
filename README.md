@@ -109,6 +109,22 @@ Mi objetivo es desarrollar software moderno, escalable y de alta calidad que res
 
 ---
 
+## 📊 Estadísticas de GitHub 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GIMPRODUCTION&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIMPRODUCTION&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GIMPRODUCTION&theme=tokyonight" />
+</p>
+
+---
+
 ## 📫 Contacto
 
 GitHub
